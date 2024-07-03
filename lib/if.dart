@@ -23,7 +23,7 @@ class If_S extends StatelessWidget {
               style: TextStyle(
                 fontSize: 90,
                 color: Colors.white,
-                fontFamily: "Vazir",
+                fontFamily: "Vazirani",
               ),
             ),
           ),

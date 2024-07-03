@@ -40,7 +40,7 @@ Widget squareDiv(String letter, Color color) {
         style: const TextStyle(
           fontSize: 90,
           color: Colors.black87,
-          fontFamily: "Vazir",
+          fontFamily: "Vazirani",
           inherit: false,
         ),
       ),
