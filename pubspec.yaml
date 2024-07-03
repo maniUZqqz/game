@@ -35,23 +35,18 @@ dev_dependencies:
 
 
 flutter:
-
-
   uses-material-design: true
-
-
   assets:
     - assets/icons/close.svg
     - assets/icons/speaker.svg
     - assets/Confetti-original.json
-
   fonts:
-    - family: Vazir
+    - family: Vazirani
       fonts:
-        - asset: assets/fonts/Vazir-Light.ttf
+        - asset: assets/fonts/Vazirani-Light.ttf
           weight: 300
-        - asset: assets/fonts/Vazir-Medium.ttf
+        - asset: assets/fonts/Vazirani-Medium.ttf
           weight: 500
-        - asset: assets/fonts/Vazir-Thin.ttf
+        - asset: assets/fonts/Vazirani-Thin.ttf
           weight: 100
 
